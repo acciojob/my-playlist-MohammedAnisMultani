@@ -1,1 +1,52 @@
-/*  your css code here. If applicable */
+body{
+    background-color: rgb(204, 204, 204);
+    
+}
+.sec1
+{
+    background-color: white;
+    border-radius: 20px;
+    border: 2px solid black;
+    width: 80vw;
+    margin: auto;
+}
+.heading
+{
+    text-align: center;
+}
+.list
+{
+    
+    list-style: none;
+}
+.sec2
+{
+    background-color: white;
+    border-radius: 20px;
+    border: 2px solid black;
+    width: 95vw;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+    padding: 20px;
+
+}
+
+
+
+p{
+    font-weight: bold;
+    
+}
+
+
+.player_two
+{
+    width: 100%;
+    margin: auto;
+}
+a{
+    text-decoration: none;
+}
