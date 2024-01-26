@@ -46,6 +46,11 @@ p{
 {
     width: 100%;
     margin: auto;
+	
+    background-color: rgb(255, 255, 255);
+    border-radius: 0px;
+    padding: 0px;
+}
 }
 a{
     text-decoration: none;
